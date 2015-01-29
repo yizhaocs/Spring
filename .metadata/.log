@@ -9922,3 +9922,12 @@ Binding(COMMAND+I,
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2015-01-29 13:13:52.648
 !MESSAGE Launch configuration SpringMain references non-existing project SpringBeanAutowiring.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-01-29 13:16:50.931
+!MESSAGE Launch configuration SpringMain references non-existing project SpringBeanAutowiring.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-01-29 13:16:50.931
+!MESSAGE Launch configuration SpringMain references non-existing project SpringBeanAutowiring.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-01-29 13:16:50.937
+!MESSAGE Launch configuration SpringMain references non-existing project SpringBeanAutowiring.
