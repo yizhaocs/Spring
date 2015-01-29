@@ -12,7 +12,7 @@ public class DrawingApp {
 	@SuppressWarnings("resource")
 	public static void usingStringWithApplicationContext() {
 		ApplicationContext factory = new ClassPathXmlApplicationContext("applicationContext.xml");
-		Triangle triangle = (Triangle) factory.getBean("triangle-alias");;
+		Triangle triangle = (Triangle) factory.getBean("triangle");;
 		triangle.draw();
 	}
 }
