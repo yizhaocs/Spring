@@ -1,0 +1,4 @@
+1417545217958	Move compilation unit
+1417545268204	Delete element
+1417546589616	Extract interface 'CustomerRepository'
+1417547103499	Extract interface 'CustomerService'

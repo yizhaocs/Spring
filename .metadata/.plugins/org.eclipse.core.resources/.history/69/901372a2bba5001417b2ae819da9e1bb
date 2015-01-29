@@ -1,0 +1,8 @@
+package com.yizhao.model;
+
+public class Point {
+	private int x;
+	private int y;
+	
+	
+}

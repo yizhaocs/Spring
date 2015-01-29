@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringDemo_00101_UsingSpring_Injection_Object"/>
+<aop-project name="SpringDemo_00000_withoutUsingSpring"/>
+<aop-project name="SpringDemo_00011_UsingSpring_ApplicationContext_and_Property_Initialization"/>
+<aop-project name="spring_sample_xml_setter_injection"/>
+<aop-project name="SpringDemo_00110_UsingSpring_Inner_Beans_Aliases_and_idref"/>
+<aop-project name="spring_sample_xml_autowiring_bytype"/>
+<aop-project name="SpringDemo_00010_UsingSpring_ApplicationContext"/>
+<aop-project name="SpringBeanAutowiring"/>
+<aop-project name="spring_sample_annotation_constructor_injection"/>
+<aop-project name="spring_sample_annotation_member_variables_injection"/>
+<aop-project name="SpringDemo_10011_UsingSpring_The_Autowired_Annotation"/>
+<aop-project name="SpringDemo_01100_UsingSpring_Using_ApplicationContextAware"/>
+<aop-project name="SpringDemo_00111_UsingSpring_Initializing_Collections"/>
+<aop-project name="spring_sample_annotation_setter_injection"/>
+<aop-project name="SpringDemo_01000_UsingSpring_Bean_Autowiring"/>
+<aop-project name="spring_sample_xml_autowiring_constructor"/>
+<aop-project name="SpringDemo_00001_UsingSpring_BeanFactory"/>
+<aop-project name="spring_sample_xml_constructor_injection"/>
+<aop-project name="SpringDemo_00100_UsingSpring_Constructor_Injection"/>
+</aop-reference-model>

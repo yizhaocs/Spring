@@ -1,0 +1,23 @@
+package com.yizhao.model;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+
+public class DrawingApp {
+	public static void main(String[] args) {
+		withoutUsingString();
+		usingString();
+	}
+	
+	public static void withoutUsingString() {
+		Triangle t = new Triangle();
+		t.draw();
+	}
+	
+	public static void usingString() {
+		ApplicationContext appContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+		//BeanFactory factory = new XmlBeanFactory(new FileSystemResource("applicationContext.xml"));
+		Triangle t = (Triangle) appContext.getBean("triangle");;
+		t.draw();
+	}
+}
