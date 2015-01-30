@@ -1,6 +1,6 @@
 package com.yizhao.model;
 
-public class Triangle {
+public class Triangle{
 	private Point pointA;
 	private Point pointB;
 	private Point pointC;
