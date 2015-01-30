@@ -1,0 +1,23 @@
+package com.yizhao.model;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+
+public class DrawingApp {
+	public static void main(String[] args) {
+		usingStringWithApplicationContext();
+	}
+		
+	@SuppressWarnings("resource")
+	public static void usingStringWithApplicationContext() {		
+		ApplicationContext shapeFactory = new ClassPathXmlApplicationContext("applicationContext.xml");
+		Shape shapeCircle = (Shape) shapeFactory.getBean("circle");;
+		shapeCircle.draw();
+		
+		Shape shapeTriangle = (Shape) shapeFactory.getBean("triangle");;
+		shapeTriangle.draw();
+	}
+}
+
+

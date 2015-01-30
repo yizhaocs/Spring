@@ -10,10 +10,10 @@ public class DrawingApp {
 	}
 		
 	@SuppressWarnings("resource")
-	public static void usingStringWithApplicationContext() {
-		ApplicationContext factory = new ClassPathXmlApplicationContext("applicationContext.xml");
-		Shape shape = (Shape) factory.getBean("circle");
-		shape.draw();
+	public static void usingStringWithApplicationContext() {		
+		ApplicationContext shapeFactory = new ClassPathXmlApplicationContext("applicationContext.xml");
+		Shape shapeCircle = (Shape) shapeFactory.getBean("circle");;
+		shapeCircle.draw();
 	}
 }
 
