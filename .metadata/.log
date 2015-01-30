@@ -10498,3 +10498,39 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.ui 4 0 2015-01-29 17:26:41.387
 !MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.553
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.refactoring.context.refactorBeanClassAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.554
+!MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.554
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.refactoring.context.moveBeanClassAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.554
+!MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.555
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.editor.actions.refactorPropertyElementAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.555
+!MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.571
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.refactoring.context.refactorBeanClassAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.571
+!MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.571
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.refactoring.context.moveBeanClassAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.571
+!MESSAGE Action must implement IEditorActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-01-29 18:19:54.572
+!MESSAGE Could not create action delegate for id: org.springframework.ide.eclipse.beans.ui.editor.actions.refactorPropertyElementAction
+
+!ENTRY org.eclipse.ui 4 0 2015-01-29 18:19:54.572
+!MESSAGE Action must implement IEditorActionDelegate
