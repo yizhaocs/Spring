@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringBeanAutowiring"/>
 			<item value="/Users/yizhao/Desktop/SpringBeanAutowiring"/>
 			<item value="/Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/spring_sample_xml_setter_injection"/>
 		</list>
