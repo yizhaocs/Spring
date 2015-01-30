@@ -1,0 +1,15 @@
+package com.yizhao.model;
+
+import java.util.List;
+
+import org.springframework.context.ApplicationContext;
+
+public class Triangle{
+	private List<Point> points;
+	
+	private ApplicationContext context = null;
+
+	public void draw() {
+	}
+
+}

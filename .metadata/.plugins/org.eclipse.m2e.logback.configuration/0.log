@@ -4169,3 +4169,86 @@ org.eclipse.core.runtime.CoreException: Launch configuration AppletServer (1) re
 2015-01-29 15:34:54,801 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-01-29 15:34:54,801 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-01-29 15:34:54,801 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01101_UsingSpring_Bean_Definition_Inheritance_Example_2/src/test/resources
+2015-01-29 15:50:05,986 [Worker-120] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_01110_Writing_a_BeanPostProcessor:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/pom.xml.
+2015-01-29 15:50:07,404 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:07,404 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-29 15:50:07,404 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:07,404 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:50:08,040 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_01110_Writing_a_BeanPostProcessor:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/pom.xml.
+2015-01-29 15:50:08,139 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:08,139 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-29 15:50:08,140 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:08,140 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:50:09,213 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:09,213 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-29 15:50:09,215 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:09,215 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:50:53,320 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:53,320 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-29 15:50:53,321 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:50:53,321 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:51:04,803 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:04,803 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-29 15:51:04,804 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:04,804 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:51:07,135 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:07,135 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 15:51:07,138 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:07,139 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01110_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 15:51:28,932 [Worker-135] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_01110_Writing_a_BeanPostProcessor:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/pom.xml.
+2015-01-29 15:51:29,308 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:29,308 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 15:51:29,357 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 15:51:29,357 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:02:01,987 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:01,987 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:02:01,988 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:01,988 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:02:45,074 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:45,075 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:02:45,076 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:45,076 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:02:58,180 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:58,180 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:02:58,181 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:02:58,181 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:29,227 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:29,228 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:29,228 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:29,228 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:34,383 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:34,384 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:34,385 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:34,385 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:40,766 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:40,766 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:40,767 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:40,767 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:41,791 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:41,791 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:41,792 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:41,792 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:51,288 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:51,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:51,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:51,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:10:55,197 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:55,198 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:10:55,198 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:10:55,198 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:11:06,372 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:11:06,373 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:11:06,374 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:11:06,374 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:12:16,153 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:16,153 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:12:16,154 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:16,155 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:12:57,320 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:57,320 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:12:57,321 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:57,321 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
+2015-01-29 16:12:58,384 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:58,385 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-01-29 16:12:58,386 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-29 16:12:58,386 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-sts-3.6.3.RELEASE/SpringDemo_01111_Writing_a_BeanPostProcessor/src/test/resources
