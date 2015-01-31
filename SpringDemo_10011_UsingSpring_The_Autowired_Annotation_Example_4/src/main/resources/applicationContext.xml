@@ -7,7 +7,7 @@
 
 
 	<!-- <bean id="triangle" class="com.yizhao.model.Triangle"> <property name="pointA" 
-		ref="zeroPoint" /> <property name="pointB" ref="point2" /> <property name="pointC" 
+		ref="point1" /> <property name="pointB" ref="point2" /> <property name="pointC" 
 		ref="point3" /> </bean> -->
 
 
