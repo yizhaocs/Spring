@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="SpringDemo_01110_Lifecycle_Callbacks_Example_2"/>
+<aop-project name="SpringDemo_01111_Writing_a_BeanPostProcessor"/>
 <aop-project name="SpringDemo_00101_UsingSpring_Injection_Object"/>
 <aop-project name="SpringDemo_00000_withoutUsingSpring"/>
 <aop-project name="SpringDemo_01110_Lifecycle_Callbacks_Example_1"/>
 <aop-project name="SpringDemo_10001_Coding_To_Interfaces_Example_2"/>
 <aop-project name="spring_sample_xml_setter_injection"/>
+<aop-project name="SpringDemo_10101_Component_and_Stereotype_Annotations_Example_1"/>
 <aop-project name="spring_sample_xml_autowiring_bytype"/>
 <aop-project name="spring_sample_annotation_constructor_injection"/>
 <aop-project name="SpringDemo_01100_UsingSpring_Using_ApplicationContextAware"/>
 <aop-project name="SpringDemo_10011_UsingSpring_The_Autowired_Annotation_Example_4"/>
+<aop-project name="SpringDemo_10101_Component_and_Stereotype_Annotations_Example_2"/>
 <aop-project name="SpringDemo_01110_Lifecycle_Callbacks_Example_3"/>
 <aop-project name="spring_sample_annotation_setter_injection"/>
 <aop-project name="SpringDemo_01000_UsingSpring_Bean_Autowiring"/>
@@ -17,9 +20,12 @@
 <aop-project name="SpringDemo_00001_UsingSpring_BeanFactory"/>
 <aop-project name="spring_sample_xml_constructor_injection"/>
 <aop-project name="SpringDemo_00100_UsingSpring_Constructor_Injection"/>
-<aop-project name="SpringDemo_10100_Some_JSR-250_Annotations"/>
+<aop-project name="SpringDemo_10101_Component_and_Stereotype_Annotations_Example_3"/>
+<aop-project name="SpringDemo_10100_Some_JSR-250_Annotations_Example_2"/>
 <aop-project name="SpringDemo_10011_UsingSpring_The_Autowired_Annotation_Example_2"/>
+<aop-project name="SpringDemo_10101_Component_and_Stereotype_Annotations_Example_4"/>
 <aop-project name="SpringDemo_00011_UsingSpring_ApplicationContext_and_Property_Initialization"/>
+<aop-project name="SpringDemo_10100_Some_JSR-250_Annotations_Example_3"/>
 <aop-project name="SpringDemo_10011_UsingSpring_The_Autowired_Annotation_Example_3"/>
 <aop-project name="SpringDemo_10000_Writing_a_BeanFactoryPostProcessor_Example_2"/>
 <aop-project name="SpringDemo_00110_UsingSpring_Inner_Beans_Aliases_and_idref"/>
@@ -28,8 +34,10 @@
 <aop-project name="spring_sample_annotation_member_variables_injection"/>
 <aop-project name="SpringDemo_01101_UsingSpring_Bean_Definition_Inheritance_Example_2"/>
 <aop-project name="SpringDemo_10001_Coding_To_Interfaces_Example_1"/>
+<aop-project name="SpringDemo_10000_Writing_a_BeanFactoryPostProcessor_Example_1"/>
 <aop-project name="SpringDemo_10010_Introduction_to_Annotations_and_the_Required_Annotation"/>
 <aop-project name="SpringDemo_00111_UsingSpring_Initializing_Collections"/>
 <aop-project name="SpringDemo_01101_UsingSpring_Bean_Definition_Inheritance_Example_1"/>
+<aop-project name="SpringDemo_10100_Some_JSR-250_Annotations_Example_1"/>
 <aop-project name="SpringDemo_10011_UsingSpring_The_Autowired_Annotation_Example_1"/>
 </aop-reference-model>

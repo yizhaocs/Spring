@@ -1,5 +1,0 @@
-package com.yizhao.model;
-
-public class MyBeanFactoryPostProcessor {
-
-}
