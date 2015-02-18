@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;SpringDemo_11000_Introduction_to_AOP&apos; to &apos;SpringDemo_11001_Setting_Up_AOP_Dependencies&apos;&#x0A;- Original element: &apos;SpringDemo_11000_Introduction_to_AOP&apos;&#x0A;- Renamed element: &apos;SpringDemo_11000_Introduction_to_AOP&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;SpringDemo_11000_Introduction_to_AOP&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SpringDemo_11000_Introduction_to_AOP" name="SpringDemo_11001_Setting_Up_AOP_Dependencies" references="true" stamp="1424284076849" version="1.0"/>
+</session>
