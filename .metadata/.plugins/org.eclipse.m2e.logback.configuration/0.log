@@ -6456,3 +6456,256 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/SpringDemo_110
 2015-02-18 11:54:09,639 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-02-18 11:54:09,641 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-18 11:54:09,641 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11011_Writing_Our_First_Aspect_Part_2/src/test/resources
+2015-02-18 13:49:12,087 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/pom.xml.
+2015-02-18 13:49:18,960 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:18,961 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 13:49:18,961 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:18,961 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:49:20,457 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/pom.xml.
+2015-02-18 13:49:21,534 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:21,534 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 13:49:21,536 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:21,536 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:49:40,709 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:40,710 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 13:49:40,711 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:40,711 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:49:43,081 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:43,081 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 13:49:43,083 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:43,083 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:49:52,636 [Worker-106] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/pom.xml.
+2015-02-18 13:49:53,357 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:53,357 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 13:49:53,358 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:53,358 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:49:54,719 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:54,719 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 13:49:54,721 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:49:54,721 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 13:53:36,649 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:53:36,649 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 13:53:36,650 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 13:53:36,650 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 14:01:06,618 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:01:06,669 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:01:06,672 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:01:06,672 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions/src/test/resources
+2015-02-18 14:09:53,423 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:09:53,468 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:09:53,469 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:09:53,469 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11011_Writing_Our_First_Aspect_Part_2/src/test/resources
+2015-02-18 14:09:54,913 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:09:54,914 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:09:54,915 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:09:54,915 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11011_Writing_Our_First_Aspect_Part_2/src/test/resources
+2015-02-18 14:14:24,722 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/pom.xml.
+2015-02-18 14:14:26,083 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/pom.xml.
+2015-02-18 14:14:31,459 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:31,459 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:14:31,497 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:31,497 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/src/test/resources
+2015-02-18 14:14:32,730 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:32,731 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:14:32,733 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:32,733 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/src/test/resources
+2015-02-18 14:14:33,094 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/pom.xml.
+2015-02-18 14:14:33,879 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:33,879 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:33,881 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:33,881 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example2/src/test/resources
+2015-02-18 14:14:43,460 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/pom.xml.
+2015-02-18 14:14:43,589 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:43,590 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:43,591 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:43,591 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:14:45,094 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:45,094 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:45,096 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:45,096 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:14:45,563 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/pom.xml.
+2015-02-18 14:14:47,349 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:47,350 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:47,352 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:47,353 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:14:56,747 [Worker-120] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:14:56,894 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:56,895 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:56,897 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:56,897 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:14:57,165 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:57,165 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:57,167 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:57,167 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:14:57,797 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:14:58,257 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:58,258 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:14:58,259 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:14:58,259 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:15:11,582 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:11,583 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:15:11,584 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:11,584 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:15:17,632 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:17,632 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:15:17,634 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:17,634 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:15:26,594 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/pom.xml.
+2015-02-18 14:15:26,693 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:26,693 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:15:26,694 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:26,694 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:15:27,918 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:27,918 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:15:27,920 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:27,920 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:15:39,421 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:39,421 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:15:39,422 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:39,422 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:15:44,603 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:44,603 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:15:44,605 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:44,605 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:15:53,650 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:15:53,746 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:53,747 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:15:53,749 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:53,749 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:15:54,938 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:54,939 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:15:54,940 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:15:54,940 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:22,544 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:18:22,672 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:22,673 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:18:22,674 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:22,674 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:23,026 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:23,026 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:18:23,027 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:23,028 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:23,507 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:18:24,104 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:24,105 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:18:24,106 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:24,106 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:32,127 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:32,127 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:18:32,128 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:32,128 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:35,113 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:35,113 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:18:35,115 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:35,115 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:43,001 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/pom.xml.
+2015-02-18 14:18:43,182 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:43,182 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:18:43,183 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:43,183 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:18:44,394 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:44,395 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:18:44,397 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:18:44,397 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:19:19,197 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:19:19,198 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:19:19,198 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:19:19,198 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example1/src/test/resources
+2015-02-18 14:20:47,452 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:20:47,475 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:20:47,476 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:20:47,476 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example3/src/test/resources
+2015-02-18 14:38:02,984 [Worker-120] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/pom.xml.
+2015-02-18 14:38:09,524 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:09,525 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:38:09,525 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:09,525 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:11,711 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/pom.xml.
+2015-02-18 14:38:12,207 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:12,207 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:38:12,209 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:12,209 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:13,697 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:13,698 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:38:13,699 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:13,699 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:22,649 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:22,649 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:38:22,650 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:22,650 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:25,542 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:25,543 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:38:25,564 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:25,564 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:35,116 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/pom.xml.
+2015-02-18 14:38:35,870 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:35,870 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 14:38:35,871 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:35,871 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:38:37,088 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:37,088 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:38:37,090 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:38:37,090 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:40:25,064 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:40:25,111 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:40:25,112 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:40:25,113 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:40:26,885 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:40:26,886 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:40:26,887 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:40:26,887 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:41:36,309 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:41:36,338 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:41:36,339 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:41:36,339 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 14:58:57,754 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:58:57,778 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 14:58:57,779 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 14:58:57,779 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example4/src/test/resources
+2015-02-18 15:03:39,108 [Worker-141] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/pom.xml.
+2015-02-18 15:03:43,056 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:03:43,056 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 15:03:43,057 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:03:43,057 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:03:44,013 [Worker-142] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/pom.xml.
+2015-02-18 15:03:44,957 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:03:44,958 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 15:03:44,958 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:03:44,958 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:04:11,302 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:11,302 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 15:04:11,303 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:11,303 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:04:15,671 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:15,671 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:04:15,672 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:15,672 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:04:22,416 [Worker-146] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringDemo_11000_Introduction_to_AOP:0.0.1-SNAPSHOT @ /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/pom.xml.
+2015-02-18 15:04:22,757 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:22,757 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 15:04:22,758 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:22,758 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:04:23,956 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:23,956 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:04:23,958 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:23,958 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:04:53,030 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:53,031 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:04:53,032 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:04:53,032 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:05:06,115 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:05:06,115 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:05:06,116 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:05:06,116 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:08:55,479 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:08:55,480 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:08:55,480 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:08:55,480 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:09:36,676 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:09:36,677 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:09:36,677 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:09:36,677 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources
+2015-02-18 15:09:46,849 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:09:46,850 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-18 15:09:46,851 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 15:09:46,851 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yizhao/Documents/workspace-Spring-STS/SpringDemo_11100_Pointcuts_and_Wildcard_Expressions_Example5/src/test/resources

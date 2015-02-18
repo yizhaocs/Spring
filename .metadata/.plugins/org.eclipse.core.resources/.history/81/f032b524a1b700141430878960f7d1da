@@ -1,0 +1,9 @@
+package com.yizhao.javabrains.service;
+
+import com.yizhao.javabrains.model.Circle;
+import com.yizhao.javabrains.model.Triangle;
+
+public class ShapeService {
+	private Circle circle;
+	private Triangle triangle;
+}

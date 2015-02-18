@@ -1,0 +1,6 @@
+package com.yizhao.javabrains.service;
+
+public class ShapeService {
+	private Circle circle;
+	private Triangle triangle;
+}

@@ -1,0 +1,10 @@
+package com.yizhao.javabrains.aspect;
+
+import org.aspectj.lang.annotation.Aspect;
+
+@Aspect
+public class LoggingAspect {
+	public void LoggingAdvice() {
+		System.out.println("Advice run. Get Method called");
+	}
+}
