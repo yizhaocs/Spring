@@ -1,0 +1,19 @@
+package com.yizhao.javabrains.aspect;
+
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+import org.aspectj.lang.annotation.Pointcut;
+
+@Aspect
+public class LoggingAspect {
+	@Before("allCircleMethods()")
+	public void LoggingAdvice(JoinPoint joinPoint) {
+		System.out.println("Advice run. Get Method called");
+	}
+	
+	@Pointcut("execution(* get*())")
+	public void allGetters() {}
+	
+	@Pointcut("within(com.yizhao.javabrains.model.Circle)")
+	public void allCircleMethods() {}
+}
