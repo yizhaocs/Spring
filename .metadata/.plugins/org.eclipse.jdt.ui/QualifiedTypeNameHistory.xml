@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.yizhao.service.CustomerService"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.yizhao.repository.CustomerRepository"/>
 <fullyQualifiedTypeName name="antlr.collections.List"/>
 <fullyQualifiedTypeName name="java.awt.Shape"/>
@@ -20,4 +19,8 @@
 <fullyQualifiedTypeName name="org.springframework.context.MessageSource"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationListener"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.yizhao.javabrains.service.ShapeService"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
 </qualifiedTypeNameHistroy>
