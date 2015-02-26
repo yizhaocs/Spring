@@ -1,0 +1,29 @@
+package com.yizhao.javabrains.aspect;
+
+import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+import org.aspectj.lang.annotation.Pointcut;
+
+import com.yizhao.javabrains.model.Circle;
+
+@Aspect
+public class LoggingAspect {
+	@Before("allCircleMethods()")
+	public void LoggingAdvice(JoinPoint joinPoint) {
+		System.out.println(joinPoint.toString());
+		System.out.println(joinPoint.getTarget());
+		Circle circle = (Circle)joinPoint.getTarget();
+	}
+	
+	@Before("args(name)")
+	public void stringArgumentMethods(String name) {
+		System.out.println("A method that takes String arguments has been called. The value is " + name);
+	}
+	
+	@Pointcut("execution(* get*())")
+	public void allGetters() {}
+	
+	@Pointcut("within(com.yizhao.javabrains.model.Circle)")
+	public void allCircleMethods() {}
+}

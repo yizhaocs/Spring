@@ -23,4 +23,5 @@
 <fullyQualifiedTypeName name="com.yizhao.javabrains.service.ShapeService"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.After"/>
 </qualifiedTypeNameHistroy>

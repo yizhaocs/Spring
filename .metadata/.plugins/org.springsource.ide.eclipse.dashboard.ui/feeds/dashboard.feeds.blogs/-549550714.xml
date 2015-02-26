@@ -5,7 +5,146 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2015-02-23T13:44:00Z</updated>
+  <updated>2015-02-24T23:25:00Z</updated>
+  <entry>
+    <title>This Week in Spring - February 24th, 2015</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/24/this-week-in-spring-february-24th-2015" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2015-02-24:1990</id>
+    <updated>2015-02-24T23:25:00Z</updated>
+    <content type="html">&lt;p&gt;Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! We&amp;rsquo;ve got a &lt;em&gt;lot&lt;/em&gt; to cover so let&amp;rsquo;s get to it!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Our pal Adam Koblentz (from ZeroTurnaround) put up this &lt;a href="https://www.voxxed.com/blog/2015/02/no-snail-herding-websocket-addition-jrebel-spring-boot/"&gt;great post introducing building a websocket application with Spring Boot and JRebel&lt;/a&gt;. Check it out!&lt;/li&gt;
+  &lt;li&gt;Check out this replay of Mark Fisher, Dr. Mark Pollack, and Sabby Anandan&amp;rsquo;s webinar &lt;a href="http://spring.io/blog/2015/02/20/webinar-replay-spring-xd-a-platform-for-data-at-scale-and-developer-productivity"&gt;introducing Spring XD - A Platform for data at scale and developer productivity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A huge part of the Pivotal Data Suite, of course, is Spring XD. Last week I surfaced some of the amazing Spring XD wiki content on &lt;a href="http://spring.io/blog/2015/02/20/stream-processing-in-spring-xd-1-1"&gt;the new stream processing supports in Spring XD 1.1&lt;/a&gt;. Check out &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Data-Stream-Processor-Module#reactor-streams"&gt;the Wiki page&lt;/a&gt; for a more detailed look by Spring XD ninja Ilayaperumal Gopinathan.&lt;/li&gt;
+  &lt;li&gt;Spring Cloud co-lead Spencer Gibb has been improving the Spring Cloud Netflix integration. Check out this example &lt;a href="https://github.com/spencergibb/myfeed/blob/master/myfeed-ui/src/main/java/myfeed/ui/UiController.java#L38-L57"&gt;demonstrating using RxJava&amp;rsquo;s &lt;code&gt;Observable&amp;lt;T&amp;gt;&lt;/code&gt; return-values from Spring MVC&lt;/a&gt;. &lt;a href="https://github.com/spencergibb/myfeed/commit/a301aba6139fce7a87a1aab1d1311e6ceb8adfb7"&gt;Here are the changes&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;March Webinars are here, and it&amp;rsquo;s packed with Javascript, Spring Boot and Spring Cloud.&lt;br/&gt;This killer lineup starts with Dr. Dave Syer&amp;rsquo;s epic VII part blog series on Angular - lightweight API gateway - Spring Security - made into a &lt;a href="https://spring.io/blog/2015/02/24/webinar-a-single-page-application-with-spring-security-and-angular-js"&gt;webinar on March 10th&lt;/a&gt;. Then Scott Deeg will examine the same thing, except with Google&amp;rsquo;s Polymer on the frontend, &lt;a href="https://spring.io/blog/2015/02/24/webinar-building-a-secure-polymer-app-with-spring-backend"&gt;on a webinar March 24th&lt;/a&gt;. Lastly, Julien Dubois will introduce the AngularJS+Boot application generator, JHipster on &lt;a href="https://spring.io/blog/2015/02/24/webinar-jhipster-for-spring-boot"&gt;March 17th, 2015&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Alvin Reyes&amp;rsquo;s posts introducing how to configure Apache Tomcat&amp;rsquo;s &lt;a href="http://examples.javacodegeeks.com/enterprise-java/tomcat/tomcat-server-xml-configuration-example/"&gt;&lt;code&gt;server.xml&lt;/code&gt;&lt;/a&gt; and &lt;a href="http://examples.javacodegeeks.com/enterprise-java/tomcat/tomcat-users-xml-configuration-example"&gt;&lt;code&gt;users.xml&lt;/code&gt;&lt;/a&gt; are &lt;em&gt;wonderful&lt;/em&gt; resources.&lt;/li&gt;
+  &lt;li&gt;Reactor project-lead Jon Brisbin has &lt;a href="http://spring.io/blog/2015/02/18/reactor-2-0-0-rc1-with-native-reactive-streams-support-now-available"&gt;just announced Reactor RC1&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Spring ninja Stéphane Nicoll has just announced &lt;a href="http://spring.io/blog/2015/02/20/spring-framework-4-1-5-released"&gt;the Spring framework maintenance release, 4.1.5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Last week, we at Pivotal announced some big changes; we&amp;rsquo;ve open-sourced our Pivotal Data Suite! Check out this &lt;a href="http://www.infoq.com/news/2015/02/pivotal-big-data-suite"&gt;InfoQ post on the subject&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring IO Platform lead Andy Wilkinson has just released improved support for &lt;a href="http://spring.io/blog/2015/02/23/better-dependency-management-for-gradle"&gt;Maven Bill-of-Material dependency management using Gradle &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Eclipse foundation member John Arthorne and Spring Tool Suite lead Martin Lippert&amp;rsquo;s talk, &lt;a href="https://old.parleys.com/share_channel.html#play/543f97d7e4b08dc7823e54cc"&gt;Eclipse IDE to the Cloud-Based Era of Developer Tooling&lt;/a&gt; from JavaOne 2014 is available online and well worth a watch!&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://sdtimes.com/pivotal-pivots-open-source/"&gt;The SD Times article on the open-sourcing of the Pivotal Data Suite&lt;/a&gt; is worth a read, too.&lt;/li&gt;
+  &lt;li&gt;Not related but still awesome: &lt;a href="http://sdtimes.com/http2-specification-formally-approved/"&gt;HTTP2 is now a thing&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Check out Rick Hightower&amp;rsquo;s post on &lt;a href="http://rick-hightower.blogspot.com/2015/02/using-qbit-java-microservice-lib-with.html"&gt;using the QBit framework with Spring Boot&lt;/a&gt;. Interesting..&lt;/li&gt;
+  &lt;li&gt;Hubert Klein Ikkink put together a quick look &lt;a href="http://java.dzone.com/articles/spocklight-capture-and-assert"&gt;at using Spring Boot&amp;rsquo;s &lt;code&gt;OutputCapture&lt;/code&gt; JUnit &lt;code&gt;@Rule&lt;/code&gt; in a Spock test&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Our pal Eugen Paraschiv put together a great look &lt;a href="http://www.baeldung.com/spring-jdbc-jdbctemplate"&gt;at using the venerable &lt;code&gt;JdbcTemplate&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Disid&amp;rsquo;s Enrique Ruiz put together &lt;a href="http://spring.io/blog/2015/02/19/working-with-spring-roo-from-spring-tool-suite-sts"&gt;a nice post on using Spring Roo from STS&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Check out this week&amp;rsquo;s SpringOne2GX 2014 replays:&lt;br/&gt;&lt;a href="https://spring.io/blog/2015/02/23/springone2gx-2014-replay-panel-session-real-world-boot-up-sequences"&gt;SpringOne2GX 2014 Replay: Panel Session: Real World Boot-up sequences&lt;/a&gt;&lt;br/&gt;&lt;a href="http://spring.io/blog/2015/02/24/springone2gx-2014-replay-spring-data-rest-data-meets-hypermedia"&gt;SpringOne2GX 2014 Replay: Spring Data REST - Data Meets Hypermedia&lt;/a&gt;&lt;br/&gt;&lt;a href="http://spring.io/blog/2015/02/23/springone2gx-replay-spring-batch-performance-tuning"&gt;SpringOne2GX Replay: Spring Batch Performance Tuning&lt;/a&gt;&lt;br/&gt;&lt;a href="https://spring.io/blog/2015/02/23/springone2gx-2014-replay-artistic-spring-data-neo4j-3-x-with-spring-boot"&gt;SpringOne2GX 2014 Replay: Artistic Spring Data Neo4j 3.x with Spring Boot&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: Building a secure Polymer app with Spring backend</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/24/webinar-building-a-secure-polymer-app-with-spring-backend" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1993</id>
+    <updated>2015-02-24T23:16:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Scott Deeg &lt;/p&gt;
+&lt;p&gt;Polymer is the latest web framework out of Google. Designed completely around the emerging Web Components standards, it has the lofty goal of making it easy to build apps based on these low level primitives. Along with Polymer comes a new set of Elements (buttons, dialog boxes and such) based on the ideas of &amp;quot;Material Design&amp;quot;. These technologies together make it easy to build responsive, componentized &amp;quot;Single Page&amp;quot; web applications that work for browsers on PCs or mobile devices. But what about the backend, and how do we make these apps secure? In this talk Scott Deeg will take you through an introduction to Polmyer and its related technologies, and then through the build out of a full blown cloud based app with a secure, RESTful backend based on Spring REST, Spring Cloud, and Spring Security and using Thymeleaf for backend rendering jobs. At the end he will show the principles applied in a tool he's currently building. The talk will be mainly code walk through and demo, and assumes familiarity with Java/Spring and JavaScript.&lt;/p&gt;&lt;p&gt;Tuesday, March 24th, 2015 2:00PM GMT (London GMT) &lt;a href="http://connect.pivotal.io/OSS_Webinar_7AMBuildingasecurePolymerappwithSpringbackend_Register.html"&gt;Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, March 24th, 2015 10:00AM PDT (San Francisco GMT-07:00) &lt;a href="http://connect.pivotal.io/OSS_Webinar_10AMBuildingasecurePolymerappwithSpringbackend_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: JHipster for Spring Boot</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/24/webinar-jhipster-for-spring-boot" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1992</id>
+    <updated>2015-02-24T23:12:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Julien Dubois &lt;/p&gt;
+&lt;p&gt;JHipster focuses on generating a high quality application with a Java back-end using an extensive set of Spring technologies; Spring Boot, Spring Security, Spring Data, Spring MVC (providing a framework for websockets, REST and MVC), etc. an Angular.js front-end and a suite of pre-configured development tools like Yeoman, Maven, Gradle, Grunt, Gulp.js and Bower. JHipster creates a fully configured Spring Boot application with a set of pre-defined screens for user management, monitoring, and logging. The generated Spring Boot application is specifically tailored to make working with Angular.js a smoother experience. Join Julien for a quick-live coding session to build a simple application, and deploy it to Cloud Foundry.&lt;/p&gt;&lt;p&gt;Tuesday, March 17th, 2015 2:00PM GMT (London GMT) &lt;a href="http://connect.pivotal.io/OSS_Webinar_7AMJHipster_Register.html"&gt;Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, March 17th, 2015 10:00AM PDT (San Francisco GMT-07:00) &lt;a href="http://connect.pivotal.io/OSS_Webinar_10AMJHipster_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: A Single-Page Application with Spring Security and Angular JS</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/24/webinar-a-single-page-application-with-spring-security-and-angular-js" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1991</id>
+    <updated>2015-02-24T23:06:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: David Syer&lt;/p&gt;
+&lt;p&gt; Pivotal Spring Security, Spring Boot and Angular JS all have nice features for making it really easy to produce modern applications, so there is potentially a lot of value in making them work together very smoothly. Things to consider are cookies, headers, native clients, various security vulnerabilities and how modern browser technology can help us to avoid them. In this session we show how nice features of the component frameworks can be integrated simply to provide a pleasant and secure user experience. We start with a very basic single-server implementation and scale it up in stages, splitting out backend resources and authentication to separate services. The final state includes a simple API Gateway on the front end implemented declaratively using Spring Cloud, and using this we are able to neatly sidestep a lot of the problems people encounter securing a javascript front end with a distributed back end.&lt;/p&gt;&lt;p&gt;Tuesday, March 10th, 2015 2:00PM GMT (London GMT)&lt;a href="http://connect.pivotal.io/OSS_Webinar_7AMSinglePageApp-SpringSecurity-AngularJS_Register.html"&gt;Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, March 10th, 2015 10:00AM PDT (San Francisco GMT-07:00) &lt;a href="http://connect.pivotal.io/OSS_Webinar_10AMSinglePageApp-SpringSecurity-AngularJS_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Spring Data REST - Data Meets Hypermedia</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/24/springone2gx-2014-replay-spring-data-rest-data-meets-hypermedia" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1995</id>
+    <updated>2015-02-24T13:46:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014 &lt;/p&gt;
+&lt;p&gt;Speakers: Roy Clarkson, Greg Turnquist &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/spring-one2gx-2014widedatameetshypermedia"&gt;http://www.slideshare.net/SpringCentral/spring-one2gx-2014widedatameetshypermedia &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spring Data REST bridges the gap between the convenient data access layers provided by Spring Data's repository abstraction and hypermedia-driven REST web services, effectively taking out the boilerplate needed during implementation. This talk will give a quick overview of the project, explain fundamental design decisions and introduce new features of the latest version (namely service documentation and discoverability). We will then look at the Spring-A-Gram sample application (built using Spring Data REST), focusing on the implementation of the frontend bits and pieces.&lt;/p&gt;
+&lt;p&gt; Learn more about Spring Boot at &lt;a href="http://projects.spring.io/spring-boot"&gt;http://projects.spring.io/spring-boot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/APk8OWtXM2s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX Replay: Spring Batch Performance Tuning</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/23/springone2gx-replay-spring-batch-performance-tuning" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1997</id>
+    <updated>2015-02-23T13:51:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speakers: Gunnar Hillert, Chris Schaefer Slides: Data / Integration Track &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/spring-batch-performance-tuning"&gt;http://www.slideshare.net/SpringCentral/spring-batch-performance-tuning &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this presentation we will examine various scalability options in order to improve the robustness and performance of your Spring Batch applications. We start out with a single threaded Spring Batch application that we will refactor so we can demonstrate how to run it using: * Concurrent Steps * Remote Chunking * AsyncItemProcessor and AsyncItemWriter * Remote Partitioning Additionally, we will show how you can deploy Spring Batch applications to Spring XD which provides high availability and failover capabilities. Spring XD also allows you to integrate Spring Batch applications with other Big Data processing needs.&lt;a href="http://projects.spring.io/spring-boot"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4unuv-oKkCA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Panel Session: Real World Boot-up sequences</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/23/springone2gx-2014-replay-panel-session-real-world-boot-up-sequences" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1994</id>
+    <updated>2015-02-23T13:50:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speakers: Erdem Gunay, Turkcell - Tim Hobson, Intuit - Zach Lendon, Independent &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/spring-one2gx-2014wideerdemgunay-41125935"&gt;http://www.slideshare.net/SpringCentral/spring-one2gx-2014wideerdemgunay-41125935&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Core Spring Track &lt;/p&gt;
+&lt;p&gt;In this Panel session, each of these presenters will have 20 minutes to respond to the question: tell us about your experiences with Spring Boot? Following that is about 30 minutes of moderated panel discussion. Erdem Gunay from Turkcell will present his experience of re-writing a Mobile BaaS originally written with Spring 3.x. He wrote the service from scratch using Boot in one week, integrating spring security, elasticsearch, mongodb, camel, angular.js, for the win: 40x throughput, 100% availability - zero crashes, 3x the users - used on 300k mobile devices. Tim Hobson from Intuit will present his lessons learned from using with Boot - he will take you through what configuration was necessary, what needed to be built, and how the project leveraged Boot to minimize cross-cutting code and configuration, maximize testability, and focus on the application domain. Zach will present a view of Boot from the hospitality industry, where they are using JAX-RS, DropWizard, and Spring Boot to create micro-service applications. He will help you understand which dropwizard-spring integrations work, and which one's don't, what to watch out for, and how to integrate your Spring applications into dropwizard whether you configure your Spring applications with xml, annotations, and/or java config files.&lt;/p&gt;
+&lt;p&gt; Learn more about Spring Boot at &lt;a href="http://projects.spring.io/spring-boot"&gt;http://projects.spring.io/spring-boot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/K4JcX8NnaAg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Artistic Spring Data Neo4j 3.x with Spring Boot</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/23/springone2gx-2014-replay-artistic-spring-data-neo4j-3-x-with-spring-boot" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1996</id>
+    <updated>2015-02-23T13:47:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speakers: Michael Hunger, Lorenzo Speranzoni - Neo Technology &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/artistic-spring-data-neo4j-3x-with-spring-boot-and-van-gogh"&gt;http://www.slideshare.net/SpringCentral/artistic-spring-data-neo4j-3x-with-spring-boot-and-van-gogh &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This session will show, how easy it is to get started with Spring Data Neo4j using Spring Boot. After a quick introduction of the concepts behind the Neo4j NoSQL graph database and its Spring Data integration library, we will discuss the general approach used in Spring Data Neo4j and highlight the exciting, new features of the new 3.x releases which now works with the most recent Neo4j 2.x versions. During the session we'll demonstrate the development steps of an exciting and unusual application - tracking an famous' artists journey connecting him to the places, paintings, people and other aspects that influenced him. Having this data in a graph allows us to find new insights and conclusions as well as quickly adding different aspects to it. This application will use Spring Boot and Spring Data Neo4j to get started quickly. We import the data, look at it as a graph visualization and then build a web-application using Spring Boot's supporting infrastructure. As a final step we show how evolving this application from being a just Neo4j client application to a REST extension of the Neo4j server requires only a few steps and can leverage Spring Data REST to provide the neccessary endpoints for consumers.&lt;/p&gt;
+&lt;p&gt; Learn more about Spring Boot at &lt;a href="http://projects.spring.io/spring-boot"&gt;http://projects.spring.io/spring-boot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/byp1zz-NqiE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Better dependency management for Gradle</title>
     <link rel="alternate" href="https://spring.io/blog/2015/02/23/better-dependency-management-for-gradle" />
@@ -390,319 +529,6 @@ server.start();
   &lt;li&gt;&lt;a href="http://stackoverflow.com/questions/tagged/spring-xd"&gt;StackOverflow&lt;/a&gt; &lt;code&gt;spring-xd&lt;/code&gt; tag&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://jira.spring.io/browse/XD/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel"&gt;Spring JIRA&lt;/a&gt; or &lt;a href="https://github.com/spring-projects/spring-xd/issues"&gt;GitHub Issues&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring XD: Data-Driven Connectivity Within a Unified Platform</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/12/spring-xd-data-driven-connectivity-within-a-unified-platform" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Sabby Anandan</name>
-    </author>
-    <id>tag:spring.io,2015-02-12:1975</id>
-    <updated>2015-02-12T08:16:00Z</updated>
-    <content type="html">&lt;p&gt;Whether you’re at home, office, or in-transit, connectivity is the norm. It’s a part of daily life that we’ve all come to &lt;a href="http://www.forbes.com/sites/timworstall/2015/01/24/eric-schmidts-quite-right-the-internet-will-disappear-all-technologies-do-as-they-mature/"&gt;expect and depend on&lt;/a&gt;. Connectivity between people and information is all about the movement and analysis of data: data delivers insights, and these insights must increasingly deliver immediate results to users. This level of always-on, always-available connectedness presents numerous challenges. The type of data, formats, and volume is dynamic, as are the data-producing agents.&lt;/p&gt;&lt;p&gt;Spring XD addresses these numerous challenges within a unified platform. Whether through continuous data streams or schedule-based data movements, Spring XD provides end-to-end data pipeline capabilities to consume, process, analyze, and stage data where and how you need it.&lt;/p&gt;&lt;p&gt;With the 1.1 GA release, Spring XD adapts to functional stream processing by adding support for project &lt;a href="http://projectreactor.io/"&gt;Reactor&lt;/a&gt;, &lt;a href="https://github.com/ReactiveX/RxJava"&gt;RxJava&lt;/a&gt;, and &lt;a href="https://spark.apache.org/streaming/"&gt;Spark Streaming&lt;/a&gt;. We added support for &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-sqoop-as-a-batch-job-sqoop"&gt;Sqoop&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-spark-application-as-a-batch-job-sparkapp"&gt;Spark&lt;/a&gt; batch jobs, in addition to current Spring Batch, and Hadoop based jobs (MR/Hive/Pig). Recognizing the importance of Python in Big Data applications, we also added Python processor and sink modules to integrate with a Spring XD stream. This enables users to choose the right tool for the use case, enabling them to take advantage of native APIs to build complex data processing pipelines.&lt;/p&gt;&lt;p&gt;Unlike other stream processing frameworks, Spring XD’s DSL (Domain Specific Language) eliminates coding requirements. Forget about setting up projects, IDE, build scripts or bundling, and use the &lt;a href="https://github.com/spring-projects/spring-xd/wiki/ShellReference"&gt;high-level configuration DSL&lt;/a&gt; instead. The Spring XD team continues focus on developer productivity that has brought numerous developer-friendly add-ons and &lt;a href="https://github.com/spring-projects/spring-xd-samples"&gt;samples&lt;/a&gt; to the platform. A stream, which is a chain of processing-units in the pipeline, can be orchestrated through the DSL. The built-in Admin UI can be used to remotely monitor and manage the streams, batch jobs, and the cluster. &lt;/p&gt;&lt;p&gt;Spring XD 1.1 GA offers thousands of combinations of data pipelines that can be built out of the box, with no coding required. Unlike other stream processing frameworks, this feature is backed by the enterprise-trusted Spring Integration project, which is recognized as an emerging standard and the &lt;a href="https://spring.io/blog/2014/11/12/pivotal-recognized-in-dzone-s-2014-guide-to-enterprise-integration"&gt;market share leader&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;At its core, Spring XD is built for easy extension support. The 1.1 GA release adds a fresh approach to developing and contributing custom modules. Thanks to Spring Boot’s module packaging plugin, you now have the option to choose between Maven or Gradle to bundle your custom module. By including the dependencies required for a custom module, you can deploy the packaged uber-jar via a REST-API. This does not require you to bring the runtime down, nor do you have to worry about currently running pipelines. The REST-API simplifies the contribution as the installed custom module is immediately available and ready for use.&lt;/p&gt;&lt;p&gt;Due to its pluggable architecture, Spring XD continues to integrate with frameworks to simplify Big Data application development. With this latest release, you can consume from Kafka topics (&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Sources#kafka"&gt;source-adapter&lt;/a&gt;) or write to Kafka topics (&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Sinks#kafka-sink"&gt;sink-adapter&lt;/a&gt;) and also plug into Kafka as a message bus. This allows Spring XD to handle the orchestration, enabling you to focus on the business logic.&lt;/p&gt;&lt;p&gt;With our fresh take on a new &lt;a href="https://github.com/spring-projects/spring-integration-kafka"&gt;Kafka Client API&lt;/a&gt;, users can now choose from new options such as partitioning at the stream level, controlling offsets, batching, and reliable data reprocessing.&lt;/p&gt;&lt;p&gt;The 1.1 GA release also integrates with Spark, a top-level Apache project. By using the out-of-the-box Spark as a &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-spark-application-as-a-batch-job-sparkapp"&gt;batch job&lt;/a&gt;, or Spark Streaming as &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-spark-application-as-a-batch-job-sparkapp"&gt;processor module&lt;/a&gt;, you can create data pipelines using the native Spark APIs. This is a familiar development experience for someone who’s already using Spark. At the same time, anyone new to Spark can immediately take advantage of dozens of input and output adapters, using a modular and distributed fault-tolerant runtime, and focus solely on business requirements instead. To address single point of failures, Spring XD provides added value by restarting the Spark Streaming driver to recover from fault scenarios.&lt;/p&gt;&lt;p&gt;With the release of Spring XD 1.1 GA, there’s no reason developing Big Data applications has to be time-consuming and complicated. Our goal with Spring XD is to eliminate the barrier between application development and big data, and shorten the turnaround from data ingestion to insights, thereby enabling truly data-driven applications. In future releases, we will continue to improve developer productivity, while retaining Spring XD’s core as an open and extensible runtime.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Better application events in Spring Framework 4.2</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/11/better-application-events-in-spring-framework-4-2" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Stéphane Nicoll</name>
-    </author>
-    <id>tag:spring.io,2015-02-09:1965</id>
-    <updated>2015-02-11T14:29:00Z</updated>
-    <content type="html">&lt;p&gt;Application events are available since the &lt;em&gt;very&lt;/em&gt; beginning of the Spring framework as a mean for loosely coupled components to exchange information. One of the most well known usage of application events is the following:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
-public class MyListener &#xD;
-        implements ApplicationListener&amp;lt;ContextRefreshedEvent&amp;gt; {&#xD;
-  &#xD;
-    public void onApplicationEvent(ContextRefreshedEvent event) {&#xD;
-        ...&#xD;
-    }&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This allows &lt;code&gt;MyListener&lt;/code&gt; to be notified when the context has &lt;em&gt;refreshed&lt;/em&gt; and one can use that to run arbitrary code when the application context has fully started.&lt;/p&gt;&lt;p&gt;In Spring Framework 4.2 we have revisited the event infrastructure in three main areas that I am going to explain in this post.&lt;/p&gt;&lt;h2&gt;&lt;a href="#generics-support" class="anchor" name="generics-support"&gt;&lt;/a&gt;Generics support&lt;/h2&gt;&lt;p&gt;It is now possible to define your &lt;code&gt;ApplicationListener&lt;/code&gt; implementation with nested generics information in the event type, something like:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;public class MyListener &#xD;
-        implements ApplicationListener&amp;lt;MyEvent&amp;lt;Order&amp;gt;&amp;gt; { ... }
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;When dispatching an event, the signature of your listener is used to determine if it matches said incoming event.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Due to type erasure you need to publish an event that resolves the generics parameter you would filter on, something like &lt;code&gt;MyOrderEvent extends MyEvent&amp;lt;Order&amp;gt;&lt;/code&gt;. There might be other workarounds and we are happy to revisit the signature matching algorithm if the community thinks it worthwhile.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#annotation-driven-event-listener" class="anchor" name="annotation-driven-event-listener"&gt;&lt;/a&gt;Annotation-driven event listener&lt;/h2&gt;&lt;p&gt;The biggest new feature is the support of annotation-driven event listeners, similar to our recent work on &lt;a href="https://spring.io/blog/2014/04/30/spring-4-1-s-upcoming-jms-improvements"&gt;JMS and AMQP endpoints&lt;/a&gt; in Spring Framework 4.1. In a nutshell, it is now possible to simply annotate a method of a managed-bean with &lt;code&gt;@EventListener&lt;/code&gt; to automatically register an &lt;code&gt;ApplicationListener&lt;/code&gt; matching the signature of the method. Our example above can be rewritten as follows:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
-public class MyListener {&#xD;
-  &#xD;
-    @EventListener&#xD;
-    public void handleContextRefresh(ContextRefreshedEvent event) {&#xD;
-        ...&#xD;
-    }&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;code&gt;@EventListener&lt;/code&gt; is a core annotation that is handled transparently in a similar fashion as &lt;code&gt;@Autowired&lt;/code&gt; and others: no extra configuration is necessary with java config and the existing &lt;code&gt;&amp;lt;context:annotation-driven/&amp;gt;&lt;/code&gt; element enables full support for it.&lt;/p&gt;&lt;p&gt;The method signature defines the event type that you&amp;rsquo;re interested in. It is also possible to define a SpEL expression that should match in order to handle the event. For instance, consider the following event:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;public class OrderCreatedEvent implements CreationEvent&amp;lt;Order&amp;gt; { ... }&#xD;
-&#xD;
-    private boolean awesome;&#xD;
-   &#xD;
-    public boolean isAwesome() { return this.awesome; }&#xD;
-    ....&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The following example showcases an event listener that will only be invoked for an &lt;em&gt;awesome&lt;/em&gt; &lt;code&gt;CreationEvent&lt;/code&gt; of &lt;code&gt;Order&lt;/code&gt; (i.e. if the &lt;code&gt;awesome&lt;/code&gt; flag is &lt;code&gt;true&lt;/code&gt;):&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
-public class MyComponent {&#xD;
-  &#xD;
-  @EventListener(condition = &amp;quot;#creationEvent.awesome&amp;quot;)&#xD;
-  public void handleOrderCreatedEvent(CreationEvent&amp;lt;Order&amp;gt; creationEvent) {&#xD;
-    ... &#xD;
-  }&#xD;
-&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;As you can see from the sample above, method arguments are exposed via their names if such information can be discovered. The condition expression also exposes a &amp;ldquo;root&amp;rdquo; variable with the &lt;em&gt;raw&lt;/em&gt; &lt;code&gt;ApplicationEvent&lt;/code&gt; (&lt;code&gt;#root.event&lt;/code&gt;) and the actual method arguments (&lt;code&gt;#root.args&lt;/code&gt;).&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#publishing-events" class="anchor" name="publishing-events"&gt;&lt;/a&gt;Publishing events&lt;/h2&gt;&lt;p&gt;You can define a non-&lt;code&gt;void&lt;/code&gt; return type for any method annotated with &lt;code&gt;@EventListener&lt;/code&gt;. If you return a non &lt;code&gt;null&lt;/code&gt; value as the result of the processing of a particular event, we&amp;rsquo;ll send that result as a new event for you.&lt;/p&gt;&lt;p&gt;You may have noticed that our &lt;code&gt;OrderCreatedEvent&lt;/code&gt; does not extend from &lt;code&gt;ApplicationEvent&lt;/code&gt;; we felt it was about time to give you the flexibility to publish any arbitrary event and not force you to extend from &lt;code&gt;ApplicationEvent&lt;/code&gt;. The &lt;code&gt;ApplicationEventPublisher&lt;/code&gt; interface has been extended to allow you to publish any object; when said object isn&amp;rsquo;t an &lt;code&gt;ApplicationEvent&lt;/code&gt;, we wrap it in a &lt;code&gt;PayloadApplicationEvent&lt;/code&gt; for you. Remember this if you want to listen to such arbitrary event using a regular &lt;code&gt;ApplicationListener&lt;/code&gt; implementation.&lt;/p&gt;&lt;p&gt;The following sample shows how you can use &lt;code&gt;ApplicationEventPublisher&lt;/code&gt; to send an &lt;code&gt;OrderCreatedEvent&lt;/code&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
-public class MyComponent {&#xD;
-&#xD;
-    private final ApplicationEventPublisher publisher;&#xD;
-    &#xD;
-    @Autowired&#xD;
-    public MyComponent(ApplicationEventPublisher publisher) { ... }&#xD;
-    &#xD;
-    public void createOrder(Order order) {&#xD;
-        // ....&#xD;
-        this.publisher.publishEvent(new OrderCreatedEvent(order)); &#xD;
-    }&#xD;
-&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;h2&gt;&lt;a href="#transaction-bound-events" class="anchor" name="transaction-bound-events"&gt;&lt;/a&gt;Transaction bound events&lt;/h2&gt;&lt;p&gt;Another popular improvement is the ability to bind the listener of an event to a phase of the transaction. The typical example is to handle the event when the transaction has completed successfully: this allows events to be used with more flexibility when the outcome of the current transaction actually matters to the listener.&lt;/p&gt;&lt;p&gt;Spring Framework is currently structured in such a way that the context is not aware of the transaction support and we obviously didn&amp;rsquo;t want to deviate from that very sane principle so we built an open infrastructure to allow additional components to be registered and influence the way event listeners are created.&lt;/p&gt;&lt;p&gt;The transaction module implements an &lt;code&gt;EventListenerFactory&lt;/code&gt; that looks for the new &lt;code&gt;@TransactionalEventListener&lt;/code&gt; annotation. When this one is present, an extended event listener that is aware of the transaction is registered instead of the default.&lt;/p&gt;&lt;p&gt;Let&amp;rsquo;s reuse our example above and rewrite it in such a way that the order creation event will only be processed when the transaction in which the producer is running has completed successfully:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
-public class MyComponent {&#xD;
-  &#xD;
-  @TransactionalEventListener(condition = &amp;quot;#creationEvent.awesome&amp;quot;)&#xD;
-  public void handleOrderCreatedEvent(CreationEvent&amp;lt;Order&amp;gt; creationEvent) { &#xD;
-    ...&#xD;
-  }&#xD;
-&#xD;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Not much to see, right? &lt;code&gt;@TransactionalEventListener&lt;/code&gt; &lt;em&gt;is&lt;/em&gt; a regular &lt;code&gt;@EventListener&lt;/code&gt; and also exposes a &lt;code&gt;TransactionPhase&lt;/code&gt;, the default being &lt;code&gt;AFTER_COMMIT&lt;/code&gt;. You can also hook other phases of the transaction (&lt;code&gt;BEFORE_COMMIT&lt;/code&gt;, &lt;code&gt;AFTER_ROLLBACK&lt;/code&gt; and &lt;code&gt;AFTER_COMPLETION&lt;/code&gt; that is just an alias for &lt;code&gt;AFTER_COMMIT&lt;/code&gt; and &lt;code&gt;AFTER_ROLLBACK&lt;/code&gt;).&lt;/p&gt;&lt;p&gt;By default, if no transaction is running the event isn&amp;rsquo;t sent at all as we can&amp;rsquo;t obviously honor the requested phase, but there is a &lt;code&gt;fallbackExecution&lt;/code&gt; attribute in &lt;code&gt;@TransactionalEventListener&lt;/code&gt; that tells Spring to invoke the listener immediately if there is no transaction.&lt;/p&gt;&lt;h2&gt;&lt;a href="#try-it-out" class="anchor" name="try-it-out"&gt;&lt;/a&gt;Try it out!&lt;/h2&gt;&lt;p&gt;If you want to give this a try before the first milestone release of 4.2, grab a nightly SNAPSHOT build via our &lt;a href="https://repo.spring.io/snapshot/"&gt;snapshot repository&lt;/a&gt;. You can also create a sample project using &lt;a href="https://start.spring.io"&gt;start.spring.io&lt;/a&gt; using the latest Spring Boot snapshot build, or if you&amp;rsquo;re super lazy you can copy/paste this in your shell:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint"&gt;$ curl https://start.spring.io/starter.tgz -d artifactId=events-demo \&#xD;
-    -d baseDir=events-demo -d bootVersion=1.2.2.BUILD-SNAPSHOT | tar -xzvf -
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And update the project to use Spring Framework &lt;code&gt;4.2.0.BUILD-SNAPSHOT&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint xml"&gt;&amp;lt;properties&amp;gt;&#xD;
-  ...&#xD;
-  &amp;lt;spring.version&amp;gt;4.2.0.BUILD-SNAPSHOT&amp;lt;/spring.version&amp;gt;&#xD;
-&amp;lt;/properties&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As always, we welcome community feedback, please try these features and let us know if you run into any issue.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Java Doesn’t Suck - Rockin' the JVM</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/11/java-doesn-t-suck-rockin-the-jvm" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Brian Dussault</name>
-    </author>
-    <id>tag:spring.io,2015-01-28:1947</id>
-    <updated>2015-02-11T14:27:00Z</updated>
-    <content type="html">&lt;p&gt;Recently James Ward wrote a great blog post, &lt;a href="http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong"&gt;“Java Doesn’t Suck – You’re Just Using it Wrong”&lt;/a&gt;, which highlighted numerous challenges that enterprise Java developers face in their daily routines building Java applications. The good news is that breaking out of the development rut is much easier than you may think. Over the last few years, Spring has redefined how modern Java applications are built while dramatically improving development velocity. In this post, I’ll use James Ward’s blog post as a backdrop to explain how Spring helps developers rock the JVM (using Java) while tackling each of the issues James outlined.&lt;/p&gt;&lt;h2&gt;&lt;a href="#instant-development-environment-setup-rocks" class="anchor" name="instant-development-environment-setup-rocks"&gt;&lt;/a&gt;Instant Development Environment Setup Rocks&lt;/h2&gt;&lt;p&gt;In James’ blog, he asserts “10 Page Wikis to Setup Dev Environments Suck”. We have all created these wiki pages at some point in our career and slogged through trying to keep them updated. These wikis have long been a source of frustration for new team members as they are often littered with outdated information. The good news is that Spring Boot’s build support makes automating this process quite easy.&lt;/p&gt;&lt;p&gt;Getting started with an existing application is a simple as cloning the source repository and running the application. Spring Boot provides support for Java’s most popular build tools, Maven and Gradle. Getting a fully functional application running with your favorite build tool is a simple as:&lt;/p&gt;&lt;p&gt;Maven example:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint"&gt;mvn spring-boot:run&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Gradle example:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint"&gt;gradle bootRun&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Since a Spring Boot application is a self-contained workload that combines application code, server, and 3rd party dependencies into a single build and deployment unit (executable .jar file), development teams are ensured a straightforward, repeatable development experience regardless of the IDE. Developers are freed from laborious environment setup instructions and can focus on building great applications. Running a Spring Boot application outside the build can be accomplished by executing:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint"&gt;java -jar target/my-application-1.0.1-SNAPSHOT.jar&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip: Want to try this on your own? Follow along in one of the many &lt;a href="https://spring.io/guides"&gt;Getting Started Guides&lt;/a&gt; on spring.io. For developers new to Spring Boot, a great starting point is the &lt;a href="https://spring.io/guides/gs/spring-boot/"&gt;Building an Application with Spring Boot&lt;/a&gt; guide.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#congruent-deployment-environments-rock" class="anchor" name="congruent-deployment-environments-rock"&gt;&lt;/a&gt;Congruent Deployment Environments Rock&lt;/h2&gt;&lt;p&gt;The next challenge James Ward highlights is “to minimize risk when promoting builds from dev to staging to production, the only thing that should change between each environment is configuration”. Manually modifying deployment artifacts is a recipe for disaster and will eventually cause deployment delays or failures. Environment specific configuration should be externalized, ensuring that the same code tested in development is the “gold copy” that will make its way to production. This is the only cost-effective way to prove that what you tested is what you deployed! &lt;/p&gt;&lt;p&gt;Spring Boot makes it a cinch to externalize your configuration using a very particular PropertySource order that is designed to allow sensible overriding of values. It’s often desirable to provide a default configuration within your project for local development but override these values when promoting the code through environments. Spring Boot provides comprehensive support for externalized configuration via command line arguments, JNDI attributes, Java System properties, OS environment variables, configuration files, profile-driven configuration variants, and &lt;a href="http://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html"&gt;more&lt;/a&gt;. Spring Boot’s support of environment variables makes following &lt;a href="http://spring.io/blog/2015/01/13/configuring-it-all-out-or-12-factor-app-style-configuration-with-spring"&gt;Twelve-Factor application configuration best practices&lt;/a&gt; (strict separation of code from configuration) a breeze.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip 1: When using cloud platforms like Cloud Foundry, Spring Boot applications can leverage &lt;a href="http://cloud.spring.io/spring-cloud-connectors/"&gt;Spring Cloud Connectors&lt;/a&gt; to automatically bind to Cloud Foundry services like database and messaging systems. This has the advantage of reducing the number of environment-specific configuration properties that an application need to maintain, significantly reducing the risk of error when promoting code across environments.&lt;/p&gt;&lt;p&gt;Tip 2: Curious why Twelve-Factor applications matter? Check out this blog post, &lt;a href="https://spring.io/blog/2015/01/30/why-12-factor-application-patterns-microservices-and-cloudfoundry-matter"&gt;Why 12 Factor Application Patterns, Microservices and CloudFoundry Matter&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#fast-server-startup-rocks" class="anchor" name="fast-server-startup-rocks"&gt;&lt;/a&gt;Fast Server Startup Rocks&lt;/h2&gt;&lt;p&gt;Spring Boot provides support for lightweight, embeddable containers/servers that start-up quickly. A simple REST application can start-up in as little as 3 seconds. As of Spring Boot 1.2, there is embedded application server support for Tomcat (default container), Jetty, and Undertow. Not only does Spring Boot provide support for the leading lightweight containers, but it keeps the developer in full control of these decisions by making it straightforward to swap out the default. &lt;/p&gt;&lt;p&gt;The following Gradle build configuration enables support for full-stack web development, including support for embedded Tomcat and spring-webmvc.&lt;/p&gt;&lt;p&gt;Gradle example:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint groovy"&gt;...&#xD;
-&#xD;
-apply plugin: &amp;#39;java&amp;#39;&#xD;
-&#xD;
-repositories { jcenter() }&#xD;
-dependencies {&#xD;
-    compile(&amp;quot;org.springframework.boot:spring-boot-starter-web:1.2.0.RELEASE&amp;quot;)&#xD;
-}&#xD;
-&#xD;
-...
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As James Ward points out in his original blog post, startup times can be further improved by breaking monolithic deployments into microservices. Later in this post, the topic of microservices will be addressed in further detail (see the section titled &lt;em&gt;Microservice Style Architectures Rock&lt;/em&gt;).&lt;/p&gt;&lt;h2&gt;&lt;a href="#managed-dependencies-rock" class="anchor" name="managed-dependencies-rock"&gt;&lt;/a&gt;Managed Dependencies Rock&lt;/h2&gt;&lt;p&gt;Modern developers need tools and technology that allow them to get started quickly with the least amount of friction. They also demand modular, lightweight and opinionated technology to optimize productivity. Spring Boot takes aim at the very issue of getting up and running quickly while dramatically improving development velocity. &lt;/p&gt;&lt;p&gt;As James Ward correctly points out “it sucks if any of your library dependencies aren’t managed by a build tool”. Spring Boot makes this best practice a first practice by not only supporting modern build technologies but also providing convenient dependency descriptors called &lt;a href="http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-starter-poms"&gt;starter POMS&lt;/a&gt;. Starter POMs provide groups of dependencies for common development workloads that you can simply include in your application. &lt;/p&gt;&lt;p&gt;To get started with Spring Boot, you can point your browser at Spring Initializer - &lt;a href="http://start.spring.io"&gt;http://start.spring.io&lt;/a&gt;. Spring Initializer provides a web based interface allowing developers to select an application/workload and relevant dependencies. It will then generate a starter application with build support (supports Maven POM, Maven project, Gradle Config, Gradle project).&lt;/p&gt;&lt;p&gt;Screenshot of Spring Initializer:&lt;br/&gt;&lt;img src="https://raw.githubusercontent.com/dussab/blog-images/master/spring-intializer.png" alt="Spring Initializer""/&gt;&lt;/p&gt;&lt;p&gt;For developer that prefer the command line, you can install the Spring Boot CLI by issuing:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint bash"&gt;curl http://start.spring.io/install.sh | sh
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A new project can be initialized using the command line simply by issuing the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint bash"&gt;spring init --dependencies=web,data-jpa my-project&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The result of this initialization (via Spring Initializer or the Boot CLI) is a fully operational application where the required dependencies have been included and auto-configured by Spring Boot. &lt;/p&gt;&lt;p&gt;The &lt;a href="http://docs.spring.io/platform/docs/current/reference/htmlsingle/"&gt;Spring IO Platform&lt;/a&gt; (which includes Spring Boot) also provides a superset of the dependencies managed by Spring Boot’s starter POMs. Spring IO level-sets dependency versions across the Spring portfolio and has a longer release cycle than Spring Boot, giving enterprises a snapshot of dependency versions that are tested and known to work together. The Spring IO Platform distribution is not a monolithic download of libraries, and developers are free to choose only the parts they need in their application. The Spring IO Platform distribution contains versions of Spring modules, testing libraries, logging frameworks, database management, SQL/No-SQL, and so much more. The Spring IO distribution is ideal for enterprises that want to consume the Spring IO Platform dependencies at a more gradual cadence.&lt;/p&gt;&lt;p&gt;The following Gradle configuration demonstrates how to configure the Spring IO Platform bill-of-materials and leverage Spring Boot’s web starter POM:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint groovy"&gt;&lt;br/&gt;buildscript {&#xD;
-    repositories {&#xD;
-        jcenter()&#xD;
-    }&#xD;
-    dependencies {&#xD;
-        classpath &amp;#39;io.spring.gradle:dependency-management-plugin:0.3.0.RELEASE&amp;#39;&#xD;
-    }&#xD;
-}&#xD;
-&#xD;
-apply plugin: &amp;#39;io.spring.dependency-management&amp;#39;&#xD;
-&#xD;
-repositories {&#xD;
-    mavenCentral()&#xD;
-}&#xD;
-&#xD;
-dependencyManagement {&#xD;
-    imports {&#xD;
-        mavenBom &amp;#39;io.spring.platform:platform-bom:1.1.0.RELEASE&amp;#39;&#xD;
-    }&#xD;
-}&#xD;
-&#xD;
-dependencies {&#xD;
-    compile &amp;#39;org.springframework.boot:spring-boot-starter-web&amp;#39;&#xD;
-}&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;h2&gt;&lt;a href="#short-development-validation-cycles-really-rock" class="anchor" name="short-development-validation-cycles-really-rock"&gt;&lt;/a&gt;Short Development / Validation Cycles Really Rock&lt;/h2&gt;&lt;p&gt;Most modern applications are being built with rich user interfaces communicating to back end services. Building applications in this manner has the benefit of strong separation of concerns between the UI and server side logic. Most modern IDEs provide dynamic reloading of static resources, allowing developers to see changes without restarting the server.&lt;/p&gt;&lt;p&gt;Spring Boot also supports server side templating technologies such as Thymeleaf, Freemarker, and Groovy. Spring Boot allows the dynamic reloading of these template technologies without incurring a server restart. For Thymeleaf this is as simple as setting the following property in the application.properties file:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint"&gt;spring.thymeleaf.cache: false&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;On the server side, breaking your monolithic applications into microservices will reduce the startup time of Spring Boot applications (which is already quite quick due to its use of lightweight embedded containers). Additionally, Spring Boot delivers support for the autoconfiguration of testing utilities. Enabling Boot’s testing autoconfiguration is as effortless as including the spring-boot-starter-test starter POM. This enables Spring Test, JUnit, Hamcrest, and Mockito dependencies making it easy to incorporate Test Driven Development (TDD) into daily workflows. TDD enables developers to receive immediate feedback on changes to their code.&lt;/p&gt;&lt;p&gt;Finally, JRebel provides comprehensive support for class reloading with support for over 80 Java frameworks (including Spring). Check out the webinar &lt;a href="https://www.youtube.com/watch?v=N5FHiONGOsg"&gt;Spring Boot and JRebel 6&lt;/a&gt; with Josh Long and Adam Koblentz for more details.&lt;/p&gt;&lt;h2&gt;&lt;a href="#microservice-style-architectures-rock" class="anchor" name="microservice-style-architectures-rock"&gt;&lt;/a&gt;Microservice Style Architectures Rock&lt;/h2&gt;&lt;p&gt;James’ statement that “Monolithic Releases Suck“ is spot on for large or complex distributed systems. Most developers want to work in a more iterative manner (agile) and release more frequently. The microservice style architecture has grown in popularity as a way to combat the challenges of monolithic applications. For folks new to microservices, Martin Fowler provides a great description of this architecture style in his &lt;a href="http://martinfowler.com/articles/microservices.html"&gt;blog&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;When building distributed applications (including microservice style applications), there are many common system patterns that appear. Spring Cloud makes it simple to adopt these patterns by providing out-of-the-box services to tackle the most common challenges. Spring Cloud implements patterns such as configuration management, service discovery, circuit breaker, intelligent routing, micro-proxy, and control bus. Spring Boot makes it drop dead simple to integrate these capabilities into your application.&lt;/p&gt;&lt;p&gt;For example, the Spring Cloud Netflix project makes standing up a service discovery service with Netflix’s Eureka as easy as: &lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;&lt;br/&gt;@SpringBootApplication &#xD;
-@EnableEurekaServer&#xD;
-&#xD;
-public class Application {&#xD;
-    public static void main(String[] args) {&#xD;
-        new SpringApplicationBuilder(Application.class).web(true).run(args);&#xD;
-    }&#xD;
-&#xD;
-}&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Client applications can register as a Eureka client by simply using @EnableEurekaClient:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;&lt;br/&gt;@SpringBootApplication&#xD;
-@EnableEurekaClient&#xD;
-@RestController&#xD;
-public class Application {&#xD;
-&#xD;
-    @RequestMapping(&amp;quot;/&amp;quot;)&#xD;
-    public String home() {&#xD;
-        return &amp;quot;Hello world&amp;quot;;&#xD;
-    }&#xD;
-&#xD;
-    public static void main(String[] args) {&#xD;
-        new SpringApplicationBuilder(Application.class).web(true).run(args);&#xD;
-    }&#xD;
-&#xD;
-}&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip 1: Spring Cloud provides support for numerous distributed processing patterns. To help you get started, check out the &lt;a href="https://github.com/spring-cloud-samples"&gt;Spring Cloud Samples&lt;/a&gt; github repository. Dave Syer and Spencer Gibb’s &lt;a href="http://www.infoq.com/presentations/spring-boot-netflix"&gt;Spring Cloud, Spring Boot and Netflix OSS&lt;/a&gt; SpringOne session is another great way to understand and learn how to operationalize microservice style architectures. &lt;/p&gt;&lt;p&gt;Tip 2: If you&amp;rsquo;re looking to build Hypermedia-style REST APIs, be sure to check out the Getting Started Guide, &lt;a href="https://spring.io/guides/gs/accessing-data-rest/"&gt;Accessing JPA Data with REST&lt;/a&gt;. &lt;a href="http://projects.spring.io/spring-data-rest/"&gt;Spring Data REST&lt;/a&gt; will help turbocharge your service development. Spring Data REST supports both SQL and No-SQL repositories.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;Having technology that allows you to code microservices quickly is only half the battle. Developers are often plagued by the numerous delays in getting their code into production platforms. Some of the most common obstacles include manual deployments, testing, infrastructure provisioning, and service provisioning. Continuous delivery takes aim at automating the process of promoting code to production while minimizing risk. This allows organizations to make incremental changes to applications, making deployment a business decision rather than resource decision. This is quite a large topic on it’s own, but I highly recommend Matt Stine’s talk, &lt;a href="https://www.youtube.com/watch?v=iMvCOEsSuAc"&gt;Developing Microservices for PaaS with Spring and Cloud Foundry&lt;/a&gt; which does an excellent job highlighting the benefits of combining agile engineering practices with the automation of Pivotal Cloud Foundry. &lt;/p&gt;&lt;h2&gt;&lt;a href="#stateless-applications-rock" class="anchor" name="stateless-applications-rock"&gt;&lt;/a&gt;Stateless Applications Rock&lt;/h2&gt;&lt;p&gt;James points out that “sticky sessions and server state are usually one of the best ways to kill your performance and resilience. Session state (in the traditional Servlet sense) makes it really hard to do Continuous Delivery and scale horizontally”. &lt;/p&gt;&lt;p&gt;Removing session state from your application can dramatically streamline operations, allowing applications to be redeployed, terminated or scaled without the fear of losing session data. There are valid use cases for maintaining state, such as sharing authentication state, but this state should be persisted outside of the application (typically in a high-performance repository like a NoSQL, distributed cache, or even in-memory data store). Externalizing application state doesn’t have to be an onerous effort and Spring Session provides the common infrastructure to make this process simple and portable. Spring Session provides:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Support for clustering in a vendor neutral way&lt;/li&gt;
-  &lt;li&gt;RESTful API support - supports session ids in headers&lt;/li&gt;
-  &lt;li&gt;Pluggable strategy for determining the session id&lt;/li&gt;
-  &lt;li&gt;Support to keep the HttpSession alive when a WebSocket is active&lt;/li&gt;
-  &lt;li&gt;Support for Redis and Hazelcast backed session stores&lt;/li&gt;
-  &lt;li&gt;Ability to manage multiple simultaneous sessions within a single browser (i.e. similar to multiple Google Accounts support)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Configuring Spring Session with Redis is as simple as:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;@EnableRedisHttpSession&#xD;
-public class Config {&#xD;
-&#xD;
-    @Bean&#xD;
-    public JedisConnectionFactory connectionFactory() {&#xD;
-        return new JedisConnectionFactory();&#xD;
-    }&#xD;
-}&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip: Spring Session 1.0 recently &lt;a href="http://spring.io/blog/2015/01/08/spring-session-1-0-0-release"&gt;went GA&lt;/a&gt;, so try out the &lt;a href="http://docs.spring.io/spring-session/docs/current/reference/html5/#samples"&gt;Spring Session samples&lt;/a&gt; to see it all in action. Dave Syer recently published a blog post titled, &lt;a href="https://spring.io/blog/2015/01/28/the-api-gateway-pattern-angular-js-and-spring-security-part-iv"&gt;The API Gateway Pattern: Angular JS and Spring Security Part IV&lt;/a&gt;, which details the shared authentication state use case. Highly recommended reading!&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;Finally, if you’re using Pivotal Cloud Foundry, the Cloud Foundry Java build pack provides another option to easily externalize state through an autoconfigured CF session state store. Check out this &lt;a href="https://github.com/cloudfoundry/java-buildpack/blob/master/docs/container-tomcat.md#session-replication"&gt;blog post&lt;/a&gt; for details.&lt;/p&gt;&lt;h2&gt;&lt;a href="#non-blocking-apps-rock" class="anchor" name="non-blocking-apps-rock"&gt;&lt;/a&gt;Non-Blocking Apps Rock&lt;/h2&gt;&lt;p&gt;A number of modern application architectures can greatly benefit from asynchronous and non-blocking processing of requests. These use cases can include composing multiple backend service calls and WebSocket style applications. &lt;/p&gt;&lt;p&gt;Project Reactor (part of the Spring IO Platform) provides the foundation for building these async, non-blocking applications. In version 2.0, Reactor will provide a full implementation of the &lt;a href="http://www.reactive-streams.org/"&gt;Reactive Streams specification&lt;/a&gt; which opens up integration with other Reactive Streams implementations like &lt;a href="http://www.typesafe.com/activator/template/akka-stream-scala"&gt;Akka Streams&lt;/a&gt;, &lt;a href="http://ratpack.io/"&gt;Ratpack&lt;/a&gt;, &lt;a href="https://github.com/ReactiveX/RxJava"&gt;RxJava&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;The following code snippet shows how to use the Reactive Streams API to create a stream, add business logic to it, then publish data into it:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="prettyprint java"&gt;// by default Streams use the Disruptor RingBufferDispatcher&#xD;
-Broadcaster&amp;lt;String&amp;gt; helloStream = Streams.broadcast(env);&#xD;
-&#xD;
-helloStream.map(s -&amp;gt; &amp;quot;Hello &amp;quot; + s + &amp;quot;!&amp;quot;)&#xD;
-           .consume(log::info);&#xD;
-&#xD;
-helloStream.onNext(&amp;quot;World&amp;quot;);&#xD;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip: Spring Boot provides support for project Reactor, making it simple to get started. Follow along in the &lt;a href="https://spring.io/guides/gs/messaging-reactor/"&gt;Creating an Asynchronous, Event-Driven Application with Reactor&lt;/a&gt; Getting Started Guide to create your first reactive application. Also be sure to check out the webinar, &lt;a href="https://spring.io/blog/2014/12/11/webinar-replay-using-reactor-for-asynch-non-blocking-microservices"&gt;Using Reactor for Asynch, non-blocking Microservices&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;Spring Framework 4 introduced support for WebSocket-style, event-driven applications. This pragmatic approach goes well beyond JSR-356 and includes client-side fallback options with SockJS, support for messaging subprotocol (STOMP), security (Spring Security 4), message broker support, Reactor based MessageChannel for message passing, client disconnect handling and a familiar Spring programming model. &lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip: Spring Boot makes configuring WebSocket applications a snap. Follow along with the &lt;a href="https://spring.io/guides/gs/messaging-stomp-websocket/"&gt;Using WebSocket to build an interactive web application guide&lt;/a&gt; to get rolling.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#the-java-language-rocks" class="anchor" name="the-java-language-rocks"&gt;&lt;/a&gt;The Java Language Rocks&lt;/h2&gt;&lt;p&gt;Spring Boot provides developers an option of using Java 6, 7, 8 as well as Groovy to build next generation applications. In James’ post he states that the “Java Language Kinda Sucks” but with the release of Java 8, Java has been propelled forward and provides many powerful language features that will improve productivity. Some of the great Java 8 features include support for Lambda Expressions, Streams, and concurrency improvements. Spring Boot makes getting started with Java 8 or Groovy effortless.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Tip: If you’re new to the features of Java 8, I highly recommend Venkat Subramaniam’s book, &lt;a href="https://pragprog.com/book/vsjava8/functional-programming-in-java"&gt;Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions&lt;/a&gt; and his &lt;a href="http://spring.io/blog/2014/11/17/springone2gx-2014-replay-java-8-language-capabilities-what-s-in-it-for-you"&gt;SpringOne2GX 2014 talk&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#conclusion" class="anchor" name="conclusion"&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;&lt;p&gt;Building modern Java applications doesn’t have to be a painful experience. Spring Boot has taken the ceremony out of building applications, making Java fun again. Spring removes boilerplate from every layer of your application - business logic (Spring Foundation projects), configuration and runtime (Spring Boot), and distributed system patterns (Spring Cloud). The best way to get started is to dive into &lt;a href="http://spring.io/guides"&gt;Spring’s Getting Started Guides&lt;/a&gt; and deploy to &lt;a href="https://run.pivotal.io/"&gt;Pivotal Web Services&lt;/a&gt; (a public, hosted version of Cloud Foundry that is free for 60 days). &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Webinar Replay: Documenting REST-ful APIs</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/10/webinar-replay-documenting-rest-ful-apis" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-10:1970</id>
-    <updated>2015-02-10T22:53:00Z</updated>
-    <content type="html">&lt;p&gt;Speaker: Andy Wilkinson &lt;/p&gt;
-&lt;p&gt;An API's documentation is a vital part of making it easy to understand and easy to use. RESTful APIs are no different. In this webinar we'll look at what should be included in your RESTful API's documentation and, just as importantly, what should be omitted. To illustrate this we'll look at some real-world examples of good and bad API documentation.  We'll look at some of the problems and limitations of choosing a tool like Swagger to produce your API's documentation and conclude by looking at some alternatives that are better-suited to producing documentation that your users will love. &lt;/p&gt;
-&lt;p&gt;Learn more about Spring MVC http://projects.spring.io/spring-framework &lt;/p&gt;
-&lt;p&gt;Learn more about Spring REST Docs https://github.com/wilkinsona/spring-restdocs&lt;/p&gt;
-&lt;p&gt; &lt;iframe width="420" height="315" src="https://www.youtube.com/embed/knH5ihPNiUs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Webinar Replay: Introducing the Java DSL for Spring Integration</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/10/webinar-replay-introducing-the-java-dsl-for-spring-integration" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-10:1971</id>
-    <updated>2015-02-10T22:51:00Z</updated>
-    <content type="html">&lt;p&gt;Webinar: Introducing the Java DSL for Spring Integration&lt;br/&gt;&lt;p&gt;Speaker: Gary Russell &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Slides: &lt;a href="https://speakerdeck.com/garyrussell/spring-integration-java-dsl-a-deeper-dive"&gt;&lt;a href="https://speakerdeck.com/garyrussell/spring-integration-java-dsl-a-deeper-dive"&gt;https://speakerdeck.com/garyrussell/spring-integration-java-dsl-a-deeper-dive&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt; The Spring Integration JavaConfig and DSL extension provides a set of convenient Builders and a fluent API to configure Spring Integration message flows from Spring @Configuration classes. The Java DSL for Spring Integration is essentially a facade for Spring Integration. The DSL provides a simple way to embed Spring Integration Message Flows into your application using the fluent Builder pattern together with existing Java and Annotation configurations from Spring Framework and Spring Integration as well. Another useful tool to simplify configuration is Java 8 Lambdas. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Learn more about Spring Integration: &lt;a href="http://projects.spring.io/spring-integration"&gt;&lt;a href="http://projects.spring.io/spring-integration"&gt;http://projects.spring.io/spring-integration&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Learn more about Spring XD: &lt;a href="http://projects.spring.io/spring-xd"&gt;&lt;a href="http://projects.spring.io/spring-xd"&gt;http://projects.spring.io/spring-xd&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;iframe width="420" height="315" src="https://www.youtube.com/embed/W3ayvcnpO1A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2014 Replay: Ratpack Web Framework</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/10/springone2gx-2014-replay-ratpack-web-framework" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-08:1960</id>
-    <updated>2015-02-10T22:50:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
-&lt;p&gt;Speaker: Dan Woods, NetFlix &lt;/p&gt;
-&lt;p&gt;G&amp;amp;G Special Topics &lt;/p&gt;
-&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/4pieter-springone2gx2014ratpack"&gt;http://www.slideshare.net/SpringCentral/4pieter-springone2gx2014ratpack&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ratpack is an asynchronous web framework for the JVM that was inspired by the simplistic nature of Ruby's Sinatra framework. Written in Java, optimized for Groovy and Java 8, Ratpack sports a high throughput, simplistic interface for rapid development of rich, real-time web applications.&lt;/p&gt;
-&lt;p&gt;&#xD;
-  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sYTmpd0CF4E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2014 Replay: Rethinking API Design with Traits</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/10/springone2gx-2014-replay-rethinking-api-design-with-traits" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-08:1959</id>
-    <updated>2015-02-10T22:48:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
-&lt;p&gt;Speaker: Cédric Champeau &lt;/p&gt;
-&lt;p&gt;More Groovy Track &lt;/p&gt;
-&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/traits-design"&gt;http://www.slideshare.net/SpringCentral/traits-design&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Groovy 2.3 introduces the concept of traits in the language. Traits look like interfaces, but allow the developer to add both implementation and state into it. It introduces multiple inheritance in the language while avoiding the diamond problem. Traits will let you rethink the way you design APIs in Groovy, by favoriting composition of behaviors.&lt;/p&gt;
-&lt;p&gt;&#xD;
-  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wXACuXtI9Fs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2014 Replay: Testing Grails</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/10/springone2gx-2014-replay-testing-grails" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-08:1958</id>
-    <updated>2015-02-10T22:42:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
-&lt;p&gt;Speaker: Kenneth Kousen &lt;/p&gt;
-&lt;p&gt;Essential Grails Track&lt;/p&gt;
-&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/testing-grails"&gt;http://www.slideshare.net/SpringCentral/testing-grails&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Grails comes with extensive testing support, ranging from unit to integration to functional tests. This session will demonstrate the range of options available both natively and through testing plugins. Prerequisite: Some knowledge of Grails would be helpful but not assumed.&lt;/p&gt;
-&lt;p&gt;&#xD;
-  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/haPb8an89YU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
-&lt;/p&gt;</content>
   </entry>
 </feed>
 

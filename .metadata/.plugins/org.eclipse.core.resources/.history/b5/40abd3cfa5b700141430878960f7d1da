@@ -1,5 +1,0 @@
-package com.yizhao.javabrains.aspect;
-
-public class LoggingAspect {
-
-}
